@@ -17,6 +17,7 @@ main:
     
   - title: "CV"
     url: /files/CV-ykw.pdf/
+    target: _self
     
   # - title: "Guide"
   #   url: /markdown/
