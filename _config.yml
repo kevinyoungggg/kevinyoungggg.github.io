@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Kaiwen Yang"
 title_separator          : "-"
-name                     : &name "Kaiwen Yang"
+name                     : &name "Kaiwen(Kevin) Yang"
 description              : &description "The third year master student at Zhejiang University"
 url                      : https://kwyangg.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
