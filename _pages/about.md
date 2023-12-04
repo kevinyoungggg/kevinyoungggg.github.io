@@ -12,4 +12,4 @@ Currently I’m the third year Master student in the School of Computer Sience a
 
 You can find my CV here: [Kevin's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:kwyang@zju.edu.cn) 
+[Email](mailto:kwyang@zju.edu.cn) | [Github](https://github.com/kevinyoungggg)
