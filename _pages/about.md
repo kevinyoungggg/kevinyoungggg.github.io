@@ -16,4 +16,4 @@ I am very fortunate to be advised by Prof. [Chao Ni](https://jacknichao.github.i
 
 You can find my CV here: [Kevin's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:kwyang@zju.edu.cn) | [Github](https://github.com/kevinyoungggg)
+[Email](mailto:kwyang@zju.edu.cn) / [Github](https://github.com/kevinyoungggg)
