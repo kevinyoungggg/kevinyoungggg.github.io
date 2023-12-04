@@ -23,7 +23,7 @@ Chao Ni, Xiaodan Xu, **Kaiwen Yang**, David Lo  \[[PDF](https://doi.org/10.1109/
 Chao Ni, Wei Wang\*, **Kaiwen Yang**\*, Xin Xia, Kui Liu, David Lo  \[[PDF](https://doi.org/10.1145/3540250.3549165)\] | \[[Code](https://kevinyoungggg.github.io/)\]
 
 - **[SANER'22]** {Automatic Identification of Crash-inducing Smart Contracts **(CCF-B)**  
-Chao Ni, Cong Tian, KaiwenYang, David Lo, Jiachi Chen, Xiaohu Yang  \[[PDF](https://doi.org/10.1109/SANER56733.2023.00020)\] | \[[Code](https://kevinyoungggg.github.io/)\]
+Chao Ni, Cong Tian, **Kaiwen Yang**, David Lo, Jiachi Chen, Xiaohu Yang  \[[PDF](https://doi.org/10.1109/SANER56733.2023.00020)\] | \[[Code](https://kevinyoungggg.github.io/)\]
 
 
 (* denotes equal contribution.)
