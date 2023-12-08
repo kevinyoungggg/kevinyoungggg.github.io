@@ -8,12 +8,12 @@ redirect_from:
 
 
 ## Education
-M.E. in Software Enginerring, 2021-2024
-Zhejiang University, Hangzhou, China
+M.E. in Software Enginerring, 2021-2024  
+Zhejiang University, Hangzhou, China  
 Supervisor: Prof. Chao Ni
 
-B.E. in Software Enginerring, 2017-2021
-University of Electronic Science and Technology of China, Chengdu, China
+B.E. in Software Enginerring, 2017-2021  
+University of Electronic Science and Technology of China, Chengdu, China  
 GPA: 3.9/4.0 (Ranking: 3/140)
 
 ## Honors and Awards
