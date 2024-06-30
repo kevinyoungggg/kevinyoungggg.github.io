@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm currently a Research Assistant at the Hong Kong University of Science and Technology, advised by Prof. [Daoyuan Wu](https://daoyuan14.github.io/) and Prof. [Shuai Wang](https://home.cse.ust.hk/~shuaiw/). I got my Master’s degree from the School of Computer Science and Technology at Zhejiang University, advised by Prof. [Chao Ni](https://jacknichao.github.io/#/). Before that, I received my Bachelor’s degree from University of Electronic Science and Technology of China. My research interest includes software engineering and code intelligence.
+I'm currently a Research Assistant at the Hong Kong University of Science and Technology, advised by Prof. [Daoyuan Wu](https://daoyuan14.github.io/) and Prof. [Shuai Wang](https://home.cse.ust.hk/~shuaiw/). I got my Master’s degree from the School of Computer Science and Technology at Zhejiang University, advised by Prof. [Chao Ni](https://jacknichao.github.io/#/). Before that, I received my Bachelor’s degree from University of Electronic Science and Technology of China. My research interest includes Software Engineering and Code Intelligence.
 
 ## Experiences
 2024.07 - Present, Research Assistant, the Hong Kong University of Science and Technology.
