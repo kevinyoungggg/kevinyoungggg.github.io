@@ -7,10 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I'm currently a Research Assistant at the Hong Kong University of Science and Technology, advised by Prof. [Daoyuan Wu](https://daoyuan14.github.io/) and Prof. [Shuai Wang](https://home.cse.ust.hk/~shuaiw/). I got my Master’s degree from the School of Computer Science and Technology at [Zhejiang University](https://www.zju.edu.cn/english/), advised by Prof. [Chao Ni](https://jacknichao.github.io/#/). Before that, I received my Bachelor’s degree from [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/) in June 2021. My research interest includes software engineering and code intelligence.
 
-I’m a third year Master student from the School of Computer Science and Technology at [Zhejiang University](https://www.zju.edu.cn/english/), advised by Prof. [Chao Ni](https://jacknichao.github.io/#/). I received my Bachelor’s degree from [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/) in June 2021. My research interest includes software engineering and code intelligence.
+## 💻 Experiences
+2024.07 - Present, Research Assistant, the Hong Kong University of Science and Technology.
 
-## Selected Publications
+
 ## Selected Publications
 
 - **[ASE-Challenge'23]** Unifying Defect Prediction, Categorization, and Repair by Multi-task Deep Learning **(CCF-A)**  
