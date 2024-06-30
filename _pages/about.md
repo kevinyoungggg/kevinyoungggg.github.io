@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I’m a third year Master student from the School of Computer Science and Technology at [Zhejiang University](https://www.zju.edu.cn/english/), advised by Prof. [Chao Ni](https://jacknichao.github.io/#/). I received my Bachelor’s degree from University of Electronic Science and Technology of China (UESTC) in June 2021. My research interest includes software engineering and code intelligence.
+I’m a third year Master student from the School of Computer Science and Technology at [Zhejiang University](https://www.zju.edu.cn/english/), advised by Prof. [Chao Ni](https://jacknichao.github.io/#/). I received my Bachelor’s degree from [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/) in June 2021. My research interest includes software engineering and code intelligence.
 
+## Selected Publications
 ## Selected Publications
 
 - **[ASE-Challenge'23]** Unifying Defect Prediction, Categorization, and Repair by Multi-task Deep Learning **(CCF-A)**  
