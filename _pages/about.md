@@ -24,7 +24,7 @@ Chao Ni, Wei Wang\*, **Kaiwen Yang**\*, Xin Xia, Kui Liu, David Lo [\[PDF\]](htt
 
 
 ## Misc.
-**Endurance Activities**: Running🏃, Trail Running⛰️, Hiking🚶. (Half marathon PB: 1:27 | ITRA: 605)
+**Endurance Activities**: Running🏃, Trail Running⛰️, Hiking🚶.
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=QBUx2GXBM1_Ay7ST8EiOZ1CCqv_Dh6vcwbbU0n85KIg&cl=ffffff&w=a"></script>
 
 
