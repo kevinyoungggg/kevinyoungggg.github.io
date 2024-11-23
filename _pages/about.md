@@ -22,6 +22,9 @@ Chao Ni, Xin Yin, **Kaiwen Yang**, Dehai Zhao, Zhenchang Xing, Xin Xia  [\[PDF\]
 - **[FSE'22]** The Best of Both Worlds: Integrating Semantic Features with Expert Features for Defect Prediction and Localization **(CCF-A)**  
 Chao Ni, Wei Wang\*, **Kaiwen Yang**\*, Xin Xia, Kui Liu, David Lo [\[PDF\]](https://kwyangg.github.io/files/The_Best_of_Both_Worlds-_Integrating_Semantic_Features_with_Expert_Features_for_Defect_Prediction_and_Localization.pdf)
 
+
+## Misc.
+**Endurance Activities**: Running🏃, Trail Running⛰️, Hiking🚶. (Half marathon PB: 1:27 | ITRA: 605)
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=QBUx2GXBM1_Ay7ST8EiOZ1CCqv_Dh6vcwbbU0n85KIg&cl=ffffff&w=a"></script>
 
 
